@@ -4,3 +4,4 @@ esse é um exercício do módulo 6 do curso Desvendando o GitHub
 
 conflito, atencao
 será que esse linha fica
+gerando conflito
